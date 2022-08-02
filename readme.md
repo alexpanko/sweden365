@@ -22,7 +22,7 @@ Replace a new tab with a nice daily photo from Sweden. Learn something new every
 - Fetch API to local storage
 
 ## Installation instructions
-1. Click [here](https://pages.github.com/) to download the extension file
+1. Click [here](https://github.com/alexpanko/sweden365/archive/refs/heads/main.zip) to download the extension file
 2. Go to chrome://extentions
 3. Turn on "Developer mode" in the top right corner
 4. Unzip the extension zip file
