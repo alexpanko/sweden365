@@ -23,7 +23,7 @@ Replace a new tab with a nice daily photo from Sweden. Learn something new every
 
 ## Installation instructions
 1. Click [here](https://github.com/alexpanko/sweden365/archive/refs/heads/main.zip) to download the extension file
-2. Go to [chrome://extentions](chrome://extentions)
+2. Go to [chrome://extensions](chrome://extensions)
 3. Turn on "Developer mode" in the top right corner
 4. Unzip the extension zip file
 5. Click "load unpacked" and select the folder containing unzipped extension files
