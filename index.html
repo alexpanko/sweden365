@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sweden 365</title>
+    <title>Sweden365</title>
     <meta
       name="description"
       content="Get a new daily inspirational photo and story from Sweden whenever you open a new tab in your browser"
@@ -19,19 +19,26 @@
   </head>
   <body>
     <div class="contentBox">
-      <h1 id="headline"></h1>
-      <h2>
-        <span id="description"></span>
-        <a id="url" class="showMoreLink" href="/"
-          >Show more
-          <img class="showMoreLinkIcon" src="vector.svg" alt="Show more icon" />
-        </a>
-      </h2>
-      <p class="footer">
-        Made with &hearts; by Alex Panko. Photo:
-        <span id="credits"></span>
-      </p>
+      <div>
+        <h1 id="headline"></h1>
+        <h2>
+          <span id="description"></span>
+          <a id="url" class="showMoreLink" href="/">Show more &rarr; </a>
+        </h2>
+      </div>
+      <div class="footerBox">
+        <div>
+          <p class="footer">Photo: <span id="credits"></span></p>
+        </div>
+        <div>
+          <p class="footer">
+            Made with &hearts; by Alex Panko.
+            <a class="footerLink" href="">Buy me a coffee.</a>
+          </p>
+        </div>
+      </div>
     </div>
+
     <script type="text/javascript" src="script.js"></script>
   </body>
 </html>
